@@ -1,0 +1,24 @@
+{
+  "name": "@derock.ir/dictionary-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openderock/dictionary-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openderock/dictionary-client/issues"
+  },
+  "homepage": "https://github.com/openderock/dictionary-client#readme"
+}
